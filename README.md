@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="![Header](github-header-image (2).png)" alt="banner" />
+  <img src="https://github.com/yashdarekar17/yashdarekar17/blob/main/github-header-image.png?raw=true" alt="Header" width="100%" />
+
 </p>
 
 <h1 align="center">Hi there, I'm Yash Darekar 👋</h1>

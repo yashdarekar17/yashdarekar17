@@ -22,7 +22,9 @@
 - 🧠 Learning Next.js and Competitive Programming
 
 
-- 🔭 I’m currently working on [foodanalyzer](https://github.com/yashdarekar17/foodanaylzer)
+- 🔭 worked on [foodanalyzer](https://github.com/yashdarekar17/foodanaylzer)
+
+- doing an Internship at kraftxworks I worked on a next.js website, worked on mobile app which is made by react-native and firebase
 
 - 🌱 I’m currently learning **Data structures and alogrithms and AI**
 

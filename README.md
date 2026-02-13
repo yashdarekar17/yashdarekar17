@@ -17,7 +17,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 B.E. in Computer Science (Data Science)| Currently in 3rd year | SPPU | CGPA: 7.55  
-- 💻 MERN Stack Developer | Building AI-powered full-stack apps  
+- 💻 Full Stack Developer | Building AI-powered full-stack apps  
 - 🚀 Currently working on EduSkill — AI Learning Platform  
 - 🧠 Learning Next.js and Competitive Programming
 

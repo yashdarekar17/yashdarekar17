@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/yashdarekar17/yashdarekar17/blob/main/github-header-image.png?raw=true" width="100%" alt="Header"/>
+ <img src="https://raw.githubusercontent.com/yashdarekar17/yashdarekar17/main/github-header-banner%20(2).png" width="100%" alt="GitHub Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Yash Darekar</h1>

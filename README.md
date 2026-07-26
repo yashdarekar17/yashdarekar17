@@ -16,7 +16,7 @@ Full Stack Developer | Next.js • React • Node.js • TypeScript
   <a href="mailto:dyash8608@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/1iEXUw_z20Ogv01ejUnkREJLpX831N-br/view?usp=sharing">
+  <a href="[https://drive.google.com/file/d/1iEXUw_z20Ogv01ejUnkREJLpX831N-br/view?usp=sharing](https://drive.google.com/file/d/126VNNNeWBJRhjtbi06SqQs6JdWHPYkY3/view?usp=sharing)">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>

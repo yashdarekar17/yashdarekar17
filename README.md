@@ -83,14 +83,13 @@ Full Stack Developer | Next.js • React • Node.js • TypeScript
 - 💼 **LinkedIn:** https://www.linkedin.com/in/yash-darekar-519660291/
 
 ---
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yashdarekar17&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdarekar17&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yashdarekar17&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdarekar17&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashdarekar17&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=yashdarekar17&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---

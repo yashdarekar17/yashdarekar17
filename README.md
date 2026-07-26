@@ -73,7 +73,6 @@ Full Stack Developer | Next.js • React • Node.js • TypeScript
 
 - 💼 Former Software Developer Intern at Kraftxworks
 - 🌍 Open Source Contributor
-- 🏅 InnoHack 2.0 Participant
 - 🚀 Passionate about building scalable full-stack applications
 
 ---
